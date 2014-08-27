@@ -13,5 +13,5 @@
 
 Route::get('/', function()
 {
-	return "my personal website.";
+	return "Laravel Developer. Contact me via email: adibhanna@gmail.com";
 });
