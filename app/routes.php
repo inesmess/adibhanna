@@ -13,5 +13,5 @@
 
 Route::get('/', function()
 {
-	return "Laravel Developer. Contact me via email: adibhanna@gmail.com";
+	return Redirect::to('http://www.google.com');
 });
