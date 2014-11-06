@@ -13,5 +13,5 @@
 
 Route::get('/', function()
 {
-	return Redirect::to('http://lb.linkedin.com/in/adibhanna');
+	return View::make('hello');
 });
