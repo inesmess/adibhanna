@@ -11,12 +11,4 @@
 |
 */
 
-Route::get('/', function()
-{
-	return View::make('hello');
-});
-
-Route::get('/experiences', function()
-{
-	return Redirect::to('http://lb.linkedin.com/in/adibhanna');
-});
+Route::get('/', 'HomeController@index');
