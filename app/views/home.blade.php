@@ -55,7 +55,8 @@
 				</h3>
 
 				<!-- Nice place to describe your site in a sentence or two -->
-				<p><a href="/download/AdibHanna__CV.pdf" class="btn btn-default btn-lg" download>Download CV</a></p>
+				<p><a href="http://blog.adibhanna.com" class="btn btn-default btn-lg" target="_blank">Blog</a>
+				<a href="/download/AdibHanna__CV.pdf" class="btn btn-default btn-lg" download>CV</a></p>
 
 			</div> <!-- /col -->
 		</div> <!-- /row -->
@@ -70,14 +71,22 @@
 		<h2 class="text-center title">About me</h2>
 		<div class="row">
 			<div class="col-sm-4 col-sm-offset-2">
-				<h5><strong>Where's my lorem ipsum?<br></strong></h5>
-				<p>Well, here it is: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, ullam, ducimus, eaque, ex autem est dolore illo similique quasi unde sint rerum magnam quod amet iste dolorem ad laudantium molestias enim quibusdam inventore totam fugit eum iusto ratione alias deleniti suscipit modi quis nostrum veniam fugiat debitis officiis impedit ipsum natus ipsa. Doloremque, id, at, corporis, libero laborum architecto mollitia molestiae maxime aut deserunt sed perspiciatis quibusdam praesentium consectetur in sint impedit voluptates! Deleniti, sequi voluptate recusandae facere nostrum?</p>
+				<h5><strong>Professionl Career<br></strong></h5>
+				<p>
+					I'm a passionate Lebanese web developer, with interest in applying best practices and useful design patterns.
+					I mainly use Laravel, been using it since its early v3. Also, I'm experienced with several top JS frameworks, such as AngularJS, ReactJS, NodeJS..<br>
+					I have deep knowledge in Relational databases, Graph databases (Neo4J) and Document databases.
+					Also, I'm well rounded with server technologies, with strong experience in: AWS, Vagrant, Docker, Deployment tools, Linux, Cpanel (deployment, installations, integrations...)
+					<br> You can find more about me on <b><a href="https://twitter.com/Adib_Hanna">Twitter</a></b> or my <b><a href="http://blog.adibhanna.com">Blog</a></b>.
+				</p>
 			</div>
 			<div class="col-sm-4">
-				<h5><strong>More, more lipsum!<br></strong></h5>
-				<p>Tempore, eos, voluptatem minus commodi error aut eaque neque consequuntur optio nesciunt quod quibusdam. Ipsum, voluptatibus, totam, modi perspiciatis repudiandae odio ad possimus molestias culpa optio eaque itaque dicta quod cupiditate reiciendis illo illum aspernatur ducimus praesentium quae porro alias repellat quasi cum fugiat accusamus molestiae exercitationem amet fugit sint eligendi omnis adipisci corrupti. Aspernatur.</p>
-				<h5><strong>Author links<br></strong></h5>
-				<p><a href="http://be.net/pozhilov9409">Behance</a> / <a href="https://twitter.com/serggg">Twitter</a> / <a href="http://linkedin.com/pozhilov">LinkedIn</a> / <a href="https://www.facebook.com/pozhilov">Facebook</a></p>
+				<h5><strong>Other interests &amp; Hobbies<br></strong></h5>
+				Other than being a developer, I'm a professionl Chess player, with a <a href="http://www.fide.com">FIDE</a> and national rating. <br>
+				Also, I'm a Bass player, and a musician. I've been playing the Bass for more than 12 years. I'm currently playing with a local Worship band at our Church.
+				I LOVE reading, Photography, Painting, and anything artistic...
+				My dream is to see a new generation of Christ lovers. A generation of passionate people who are able to love one another without focusing on their differences.
+				A generation that will simply change the world.
 			</div>
 		</div>
 	</div>
@@ -98,6 +107,7 @@
 					<li><a href="https://github.com/adibhanna" target="_blank" class="btn btn-link"><i class="fa fa-github fa-fw"></i> Github</a></li>
 					<li><a href="http://lb.linkedin.com/in/adibhanna" target="_blank" class="btn btn-link"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a></li>
 				</ul>
+				<p class="text-center">I found this theme <b><a href="http://bootstrapzero.com/bootstrap-template/magister" target="_blank">here</a></b></p>
 			</div>
 		</div>
 
