@@ -47,7 +47,7 @@
 
 				<!-- Site Title, your name, HELLO msg, etc. -->
 				<h1 class="title">Adib Hanna</h1>
-				<h2 class="subtitle">Web Developer</h2>
+				<h2 class="subtitle">Web Developer &amp; Software Engineer</h2>
 
 				<!-- Short introductory (optional) -->
 				<h3 class="tagline">
