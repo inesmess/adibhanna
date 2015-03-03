@@ -107,7 +107,7 @@
 					<li><a href="https://github.com/adibhanna" target="_blank" class="btn btn-link"><i class="fa fa-github fa-fw"></i> Github</a></li>
 					<li><a href="http://lb.linkedin.com/in/adibhanna" target="_blank" class="btn btn-link"><i class="fa fa-linkedin fa-fw"></i> LinkedIn</a></li>
 				</ul>
-				<p class="text-center">I found this theme <b><a href="http://bootstrapzero.com/bootstrap-template/magister" target="_blank">here</a></b></p>
+				<p class="text-center">Theme can be found <b><a href="http://bootstrapzero.com/bootstrap-template/magister" target="_blank">here</a></b></p>
 			</div>
 		</div>
 
