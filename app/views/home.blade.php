@@ -56,7 +56,7 @@
 
 				<!-- Nice place to describe your site in a sentence or two -->
 				<p><a href="http://blog.adibhanna.com" class="btn btn-default btn-lg" target="_blank">Blog</a>
-				<a href="/download/AdibHanna__CV.pdf" class="btn btn-default btn-lg" download>CV</a></p>
+				<a href="/download/AdibHanna__CV .pdf" class="btn btn-default btn-lg" download>CV</a></p>
 
 			</div> <!-- /col -->
 		</div> <!-- /row -->
